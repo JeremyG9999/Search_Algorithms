@@ -1,14 +1,19 @@
-# Search Algorithms
+# 🔍 Search Algorithms
 
-A collection of classic search algorithm implementations in Python, designed for learning and practice.
+🧠 A collection of classic search algorithm implementations in Python, designed for learning and practice.
 
-## Features
+## ⚙️ Features
 
-- Linear Search — Simple search scanning each element
-- Binary Search — Iterative implementation on sorted lists
-- Binary Search (Recursive) — Recursive approach on sorted lists
+- 🔎 **Linear Search**  
+  Simple search scanning each element  
 
-## Getting Started
+- 🧭 **Binary Search**  
+  Iterative implementation on sorted lists  
+
+- 🔁 **Binary Search (Recursive)**  
+  Recursive approach on sorted lists  
+
+## 🚀 Getting Started
 
 Clone the repository:
 
